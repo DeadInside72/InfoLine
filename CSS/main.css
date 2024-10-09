@@ -1,0 +1,11 @@
+.btn {
+    min-width: 100px;
+    background-color: rgb(7, 197, 165);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.btn.active {
+    background-color: blue;
+    color: azure;
+}
